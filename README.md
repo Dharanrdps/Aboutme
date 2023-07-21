@@ -31,8 +31,6 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharanrdps&layout=compact&theme=dark" alt=Dharanrdps />
-
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dharanrdps&show_icons=true&locale=en&theme=dark" alt="Dharanrdps" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dharanrdps&theme=highcontrast" alt="Dharanrdps" /></p>
