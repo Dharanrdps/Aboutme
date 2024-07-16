@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Sridharan R</h1>
-<h3 align="center">Artificial Intelligence and Data Science student</h3>
+<h1 align="center">Hi 👋, I'm Sridharan Raju</h1>
+<h3 align="center">AI Enthusiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dharanrdps&label=Profile%20views&color=0e75b6&style=flat" alt="Dharanrdps" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dharanrdps&theme=" alt="Dharanrdps" /></a> </p>
 
-- 🔭 I’m currently working on **Fruit Ripeness Detector**
-- 👯 I’m looking to collaborate on **Analysing Agriculture in INDIA and making strageic decisons based on it according to population**
-- 🌱 I’m currently learning **Python,C++,Java,SQL**
+- 🔭 I’m currently working on **Machine Learning**
+- 👯 I’m looking to collaborate on **ML Projects and Data Science Project**
+- 🌱 I’m currently learning **Python,C++,Java,SQL,Machine Learning,Data Science,Deep Learning**
 
 
 - 📄 Know about my experiences **https://pdf.ac/2rFgiM**
